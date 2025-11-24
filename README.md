@@ -38,7 +38,9 @@ and gives a hydration status. The project also stores history in a text file.
 # How to Run the Project
 1.Install Python 3(If not installed).
 2.Download all project files:
+
  -water_tracker.py
+ 
 -water_history.txt(automatically created) 
  3. Run the program
 
