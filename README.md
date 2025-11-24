@@ -42,25 +42,24 @@ and gives a hydration status. The project also stores history in a text file.
 -water_history.txt(automatically created) 
  3. Run the program
 
- # Testing Instructions
-
+ #Testing Instructions
 Try running the project with different modes:
 
-# Glass Mode Example
+#Glass Mode Example
 
 - Target: 8 glasses  
 - Morning: 2  
 - Afternoon: 3  
 - Evening: 2  
 
-# ml Mode Example
+#ml Mode Example
 
 - Target: 2000 ml  
 - Morning: 500 ml  
 - Afternoon: 700 ml  
 - Evening: 600 ml  
 
-# Litre Mode Example
+#Litre Mode Example
 
 - Target: 2.5 litres  
 - Morning: 1.0  
