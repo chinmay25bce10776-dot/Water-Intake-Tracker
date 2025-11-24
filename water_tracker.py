@@ -26,7 +26,7 @@ def save(tar, tot, status):
 
 # Show history
 def show_history():
-    print("\n----- Water History -----")
+    print("----- Water History -----")
     f = open("water_history.txt", "r")
     data = f.read().strip()
     f.close()
